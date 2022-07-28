@@ -30,3 +30,11 @@ To execute my renderfarm, in host, run:
 python3 distribute.py
 ```
 Specify num_gpus and resolution at line 26 and 28.
+
+_____________________________________________________________________________________
+no_docker method
+
+install blender 3.2 and run
+```
+python3 distribute_nodocker.py
+```
